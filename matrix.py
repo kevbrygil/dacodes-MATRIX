@@ -1,4 +1,7 @@
 # Probado con python 2.7.15 y 3.6.8
+# ejemplo de ejecución:
+# python matrix.py
+# python3 matrix.py
 
 import sys
 
